@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 365f38e34ca239346b1f72c005696869, type: 3}
+  m_Name: BaseCorner
+  m_EditorClassIdentifier: 
+  type: BaseCorner
+  platform: {fileID: 3344205439054379167, guid: fdae330ada537ac45911bb560258611d,
+    type: 3}

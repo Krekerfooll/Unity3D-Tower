@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d2661b624881d429f2a5536bf3f511, type: 3}
+  m_Name: StaffLevel
+  m_EditorClassIdentifier: 
+  type: StainedGlassLevel
+  platformsDataBase: {fileID: 11400000, guid: 090fd1d73d598914586053b087c78d53, type: 2}
+  platformsAmount: 1
+  holeChance: 0
+  maxHolesAmount: 0
